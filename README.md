@@ -5,5 +5,5 @@
 
 # https://iiecdockerproject.blogspot.com/
 
-# Important NOTE
-# Please remove and rebuild the image if you are getting Internal Server Error
+# ___ Important NOTE ___
+## Please remove and rebuild the image if you are getting Internal Server Error
