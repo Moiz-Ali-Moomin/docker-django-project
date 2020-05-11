@@ -4,3 +4,6 @@
 # *For Easy to setup guide and documentation please visit the blog given below*
 
 # https://iiecdockerproject.blogspot.com/
+
+# Important NOTE
+# Please remove and rebuild the image if you are getting Internal Server Error
